@@ -1,4 +1,4 @@
-// I love Quantum Mechanics
+// Guifré Vidal was teaching in CalTech... Congrats man!
 global with sharing class EinsteinController {
     
     // Modify with value of the email account you used to generate your Einstein key
