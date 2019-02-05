@@ -2,7 +2,7 @@
 
 Read [this blog post](https://developer.salesforce.com/blogs/developer-relations/2017/07/northern-trail-outfitters-new-sample-application-lightning-components-platform-events-salesforce-dx.html) to learn more about the application.
 
-## Installation Instructions by Sergi Martin
+## Installation Instructions by Sergi Martin The Best Guy
 
 1. Authenticate with your hub org (if not already done):
     ```
