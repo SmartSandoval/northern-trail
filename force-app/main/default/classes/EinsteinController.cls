@@ -1,3 +1,4 @@
+// I love Quantum Mechanics
 global with sharing class EinsteinController {
     
     // Modify with value of the email account you used to generate your Einstein key
@@ -64,7 +65,7 @@ global with sharing class EinsteinController {
         try {
             access_token = getAccessToken();
         } catch (Exception e) {
-            throw new AuraHandledException('Cannot create Einstein token. Did you upload the einstein_platform.pem file and specify the right value for "einsteinAccountEmail"?');			
+            throw new AuraHandledException('Cannot create Einstein token. Did you upload the einstein_platform.pem file and specify the right value for "einsteinAccountEmail"?');          
         }
         
         string contentType = HttpFormBuilder.GetContentType();
